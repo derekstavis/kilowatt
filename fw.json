@@ -1,17 +1,20 @@
 [
   {
     "version": 6.023,
-    "file": "6023",
-    "changelog": []
+    "file": "23;10;6023",
+    "changelog": [],
+    "checksum": "9cbe8a8030f4d8f0cdf3744acb477f94"
   },
   {
     "version": 6.024,
-    "file": "6024",
-    "changelog": []
+    "file": "23;10;6024",
+    "changelog": [],
+    "checksum": "68e43a7850aa57c797d6a132eada2f79"
   },
   {
     "version": 6.025,
-    "file": "6025rev01",
-    "changelog": []
+    "file": "23;11;6025rev01",
+    "changelog": [],
+    "checksum": "cd6a19496a8ba3cb3ae6a28bd3481952"
   }
 ]
