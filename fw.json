@@ -16,5 +16,11 @@
     "file": "23;11;6025rev01",
     "changelog": [],
     "checksum": "cd6a19496a8ba3cb3ae6a28bd3481952"
+  },
+  {
+    "version": 6.026,
+    "file": "24;05;6026-FW-and-dictionary",
+    "changelog": [],
+    "checksum": "5a641b2878cea4d2bdefd16d70440325"
   }
 ]
